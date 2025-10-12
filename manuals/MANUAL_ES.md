@@ -533,7 +533,7 @@ nmap-scanner-bash -sN 192.168.1.1
 ```
 
 **Technical characteristics:**
-- Sends TCP packets with no flags set
+- Sends TCP packets with no flags
 - Extremely stealthy
 - Based on RFC 793 behavior
 - Inconsistent results on Windows
