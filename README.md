@@ -1,4 +1,4 @@
-# Advanced Nmap Scanner
+# NmapFlow
 
 **Author:** Cracknic
 **Version:** 1.0  
@@ -24,11 +24,11 @@ Advanced Nmap Scanner is a comprehensive network scanning automation tool availa
 
 ```
 NmapFlow/                            # Bash implementation
-├── nmap_scanner.sh              # Main Bash script
+├── NmapFlow.sh                  # Main Bash script
 ├── install.sh                   # Bash installer
 ├── MANUAL_EN.md                 # English manual
 ├── MANUAL_ES.md                 # Spanish manual
-└── README.md                        # This file
+└── README.md                    # README
 ```
 
 ## 🔧 Quick Installation
