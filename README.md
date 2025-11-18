@@ -53,10 +53,6 @@ sudo ./install.sh
 
 ### Basic Usage
 ```bash
-# Python version
-NmapFlow 192.168.1.1
-
-# Bash version
 NmapFlow-bash 192.168.1.1
 ```
 
