@@ -131,25 +131,6 @@ NmapScan_YYYYMMDD_HHMMSS/
 └── nmap_scan_[timestamp].log
 ```
 
-## 🚨 Important Notes
-
-### Authorization Required
-- **Always obtain written authorization** before scanning any network
-- **Respect terms of service** and local laws
-- **Use responsibly** in production environments
-
-### Performance Considerations
-- **Start with limited scans** to assess network impact
-- **Adjust thread count** based on system resources
-- **Monitor network bandwidth** during large scans
-- **Use appropriate timeouts** for network conditions
-
-### Script Categories
-- **Safe scripts**: Production-safe, minimal impact
-- **Vulnerability scripts**: Detection only, no exploitation
-- **Exploit scripts**: ⚠️ **TEST ENVIRONMENTS ONLY** ⚠️
-- **Authentication scripts**: May trigger account lockouts
-
 ## 🤝 Contributing
 
 This project was developed by **Cracknic**. For contributions, bug reports, or feature requests, please contact the author directly.
